@@ -1,0 +1,24 @@
+.cont{
+  margin:10px;
+  font-size:20px;
+}
+
+.btn{
+  font-size:30px;
+  color:red
+}
+.btn2{
+  font-size:30px;
+  color:green
+}
+.btn3{
+  font-size:30px;
+  color:blue
+}
+
+.save{
+  border:20px;
+  border-color:red;
+  border:dotted 3px
+  
+}
